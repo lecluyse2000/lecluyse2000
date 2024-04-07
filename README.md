@@ -16,12 +16,10 @@ Just a guy from the KC area interested in all things low level. I use Arch and N
   * I play the piano and the trumpet
   * Favorite movie is 2001: A Space Odyssey
 * I love basketball, go Knicks    
-* I love coffee and pizza
 * Chess enthusiast    
 
 -------------------------------------------------
 
 <p align="center">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=lecluyse2000&count_private=true&theme=gruvbox&show_icons=true"" />
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecluyse2000&langs_count=14&layout=compact&card_width=460&theme=gruvbox" />
 </p>
