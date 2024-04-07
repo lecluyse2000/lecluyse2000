@@ -1,6 +1,7 @@
 # Caden LeCluyse
 
 [`Email`](mailto:lecluyse20@gmail.com 'Send an email')
+[`Nvim config`](https://github.com/lecluyse2000/nvim)
 
 Just a guy from the KC area interested in all things low level. I use Arch and Neovim, btw.   
 
