@@ -28,7 +28,7 @@ Just a guy from the KC area interested in all things software. I use Arch and Ne
   * Favorite movie is 2001: A Space Odyssey
 * Basketball is my passion, go Knicks
 * I love traveling
-  * Cities visited: New York, Seattle, Chicago, Montreal, Boise, Salt Lake
+  * Cities visited: New York, Seattle, Chicago, Montreal, Denver, Boise, Salt Lake
 * I am a [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
 
 -------------------------------------------------
