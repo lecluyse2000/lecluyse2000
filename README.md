@@ -3,23 +3,34 @@
 [`Email`](mailto:lecluyse20@gmail.com 'Send an email')
 [`Nvim`](https://github.com/lecluyse2000/nvim)
 
-Just a guy from the KC area interested in all things low level. I use Arch and Neovim, btw.   
+Just a guy from the KC area interested in all things software. I use Arch and Neovim, btw.   
 
 ------------------------------------------------
 
-### Fun Facts   
+### Tech Stack    
+
 * CS student at the [`University of Kansas`](https://ku.edu/)    
   * The first language I learned was C++
-  * Interested in learning Rust and Go, as well as expanding my web knowledge
-  * Currently looking to get my first internship summer 2025
+* Proficient in:
+  * C, C++
+* Competent in:
+  * Python
+* Learning:    
+  * Javascript, HTML, CSS, Haskell
+* Want to learn:
+  * Rust, Go, C#, SQL, Typescript    
+
+------------------------------------------------
+### Fun Facts   
+
 * I love music and movies, and would probably persue a career in those if I wasn't doing CS    
   * I play the piano and the trumpet
   * Favorite movie is 2001: A Space Odyssey
-* I love basketball, go Knicks    
-* [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
+* Basketball is my passion, go Knicks    
+* I am a [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
 
 -------------------------------------------------
 
 <p align="center">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecluyse2000&langs_count=14&layout=compact&card_width=460&theme=gruvbox" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecluyse2000&langs_count=14&layout=compact&theme=gruvbox" />
 </p>
