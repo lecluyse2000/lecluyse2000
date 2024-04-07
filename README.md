@@ -15,4 +15,5 @@ Just a guy from the KC area interested in all things low level. I use Arch and N
   * I play the piano and the trumpet
   * Favorite movie is 2001: A Space Odyssey
 * I love basketball, go Knicks    
-* I love coffee and pizza    
+* I love coffee and pizza
+* Chess enthusiast    
