@@ -26,7 +26,9 @@ Just a guy from the KC area interested in all things software. I use Arch and Ne
 * I love music and movies, and would probably persue a career in those if I wasn't doing CS    
   * I play the piano and the trumpet
   * Favorite movie is 2001: A Space Odyssey
-* Basketball is my passion, go Knicks    
+* Basketball is my passion, go Knicks
+* I love traveling
+  * Cities visited: New York, Seattle, Chicago, Montreal
 * I am a [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
 
 -------------------------------------------------
