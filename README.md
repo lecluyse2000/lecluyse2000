@@ -19,15 +19,3 @@ Just a guy from the KC area interested in performant code. I use Arch and Neovim
   * Javascript, HTML, CSS, Haskell
 * Want to learn:
   * Rust, Go, C#, SQL, Typescript    
-
-------------------------------------------------
-### Fun Facts   
-
-* I love music and [`movies`](https://letterboxd.com/lecluyse2000/), and would probably persue a career in those if I wasn't doing CS    
-  * I play the piano and the trumpet
-  * Favorite movie is 2001: A Space Odyssey
-* Basketball is my passion, go Knicks
-* I love traveling
-  * Cities visited: New York, Seattle, Chicago, Montreal, Denver, Boise, Salt Lake
-* I am a [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
-
