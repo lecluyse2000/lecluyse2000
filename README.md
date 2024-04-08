@@ -3,7 +3,7 @@
 [`Email`](mailto:lecluyse20@gmail.com 'Send an email')
 [`Nvim`](https://github.com/lecluyse2000/nvim)
 
-Just a guy from the KC area interested in all things software. I use Arch and Neovim, btw.   
+Just a guy from the KC area interested in performant code. I use Arch and Neovim, btw.   
 
 ------------------------------------------------
 
@@ -31,8 +31,3 @@ Just a guy from the KC area interested in all things software. I use Arch and Ne
   * Cities visited: New York, Seattle, Chicago, Montreal, Denver, Boise, Salt Lake
 * I am a [`Chess enthusiast`](https://www.chess.com/member/cadenlecluyse)    
 
--------------------------------------------------
-
-<p align="center">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecluyse2000&langs_count=14&layout=compact&theme=gruvbox" />
-</p>
