@@ -11,7 +11,6 @@ Just a guy from the KC area interested in performant code. I use Arch and Neovim
 ### Tech Stack    
 
 * CS student at the [`University of Kansas`](https://ku.edu/)    
-  * The first language I learned was C++
 * Proficient in:
   * C, C++
 * Competent in:
